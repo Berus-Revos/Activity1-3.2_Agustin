@@ -117,5 +117,3 @@ class Balance:
         self.money -= cost
         self.stuff_done += 1
         print(f"Bought {item}!")
-
-##################################################
