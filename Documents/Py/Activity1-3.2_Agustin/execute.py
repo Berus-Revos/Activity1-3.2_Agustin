@@ -1,4 +1,4 @@
-from main30 import Balance
+from wallet import Balance
 
 account = Balance(name="Tin", starting_money=0)
 while True:
